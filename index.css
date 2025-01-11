@@ -1,5 +1,6 @@
 * {
   margin: 0px auto;
+  touch-action: manipulation;
 }
 .calculator {
   width: 215px;
